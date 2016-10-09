@@ -1,0 +1,15 @@
+For scanner:
+red= 5V
+white= ground
+green=Clock pin (digital pin 3 on arduino)
+black=Data pin (digital pin 4 on arduino)
+
+
+For lcd:
+RS-12
+RW-Gnd
+E-11
+D4-36
+D5-38
+D6-40
+D7-42
